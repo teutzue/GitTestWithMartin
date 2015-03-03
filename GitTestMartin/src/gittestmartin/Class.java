@@ -28,7 +28,7 @@ public class Class {
     
     
     public void shit(){
-    
+        System.out.println("gshjlksd");
     }
     
 }
