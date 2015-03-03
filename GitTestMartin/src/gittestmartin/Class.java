@@ -20,6 +20,7 @@ public class Class {
     
     public void test(){
         System.out.println("Teo is king1");
+        System.out.println("No, no, no, Martin is King");
     }
     
 }
