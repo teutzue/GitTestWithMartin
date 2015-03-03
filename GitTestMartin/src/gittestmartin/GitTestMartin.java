@@ -19,7 +19,7 @@ public class GitTestMartin {
         
         //Test git Teo :P
         //Test Martin
-        
+        Class c = new Class();
         for (int i = 0; i < 10; i++) {
             System.out.println("Hi Martin, it works!");
         }
