@@ -18,4 +18,8 @@ public class Class {
         }
     }
     
+    public void test(){
+        System.out.println("Teo is king1");
+    }
+    
 }
