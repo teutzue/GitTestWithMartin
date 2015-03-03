@@ -22,7 +22,7 @@ public class GitTestMartin {
         Class c = new Class();
         for (int i = 0; i < 10; i++) {
             System.out.println("Hi Martin, it works!");
-            dsfgjkulikgjfhhjklk.h,cngm
+            System.out.println("dsfgjkulikgjfhhjklk.h,cngm");
         }
         c.Great();
         
