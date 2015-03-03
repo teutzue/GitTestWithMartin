@@ -23,4 +23,8 @@ public class Class {
         System.out.println("No, no, no, Martin is King");
     }
     
+    public void shit(){
+    
+    }
+    
 }
