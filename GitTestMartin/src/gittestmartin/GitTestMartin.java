@@ -23,6 +23,9 @@ public class GitTestMartin {
         for (int i = 0; i < 10; i++) {
             System.out.println("Hi Martin, it works!");
         }
+        
+        System.out.println("Did you know that seagulls will stomp repeatedly on the grass"
+                + " inorder to fool the worms into thinking that its raining?");
     }
     
 }
